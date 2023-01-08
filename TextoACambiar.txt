@@ -1,3 +1,7 @@
 Hola
 Adios
+<<<<<<< HEAD
 Buenas Gente!!!
+=======
+Buenas Gente!!a
+>>>>>>> 4e46cb6929c9c653ee2ad6472e95ff0ab572a8cf
